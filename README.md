@@ -123,17 +123,16 @@ The application follows a modular MVC architecture, making it scalable for futur
 ## Screenshots
 
 
-### Register API
-![Register](images/REGISTER API.png)
+## Register API
+![Register](images/register.png)
 
-### Login API
-![Login](images/LOGIN API.png)
+## Login API
+![Login](images/login.png)
 
-### Task Create API
-![Task](images/TASK CREATE.png)
+## Task Create API
+![Task](images/task.png)
 
-### MongoDB Database
-![MongoDB](images/MONGODB DATA.png)
-
+## MongoDB Database
+![MongoDB](images/mongodb.png)
 ## Author
 Anmol Kamble
