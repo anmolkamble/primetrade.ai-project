@@ -123,7 +123,7 @@ The application follows a modular MVC architecture, making it scalable for futur
 ## Screenshots
 
 ### Register API
-![Register](screenshots/register.png)
+ss(https://drive.google.com/file/d/1nVXl4n715WOQaPUPwI8ZEDW8R_EN0LN8/view?usp=drive_link)
 
 ### Login API
 ![Login](screenshots/login.png)
